@@ -13,8 +13,9 @@ You don't know who we are:
 * Mods for DDLC (Doki Doki Literature Club) on Ren'Py.
 * Translation of MAS (Monika After Story) — [new](https://github.com/DenisSolicen/MAS-Russifier-NEW ) — [old](https://github.com/DenisSolicen/MAS-Russifier )
 
-### Our resources [Primary russian]
-* We mostly live on our [Discord](https://discord.gg/ZJ3SQpV ) the server **[have a english channels]**.
+### Our resources
+* **Solicen** lives in on his server - [Sо́licen Community](https://discord.gg/3wjcQzy7zz).
+* We (and Solicen too) mostly lives in on our [Discord](https://discord.gg/ZJ3SQpV ) server **[have a english channels]**.
 
 ### Donations:
 > [!CAUTION]
@@ -43,7 +44,8 @@ You don't know who we are:
 * Перевод MAS (Monika After Story) — [новый](https://github.com/DenisSolicen/MAS-Russifier-NEW) — [старый](https://github.com/DenisSolicen/MAS-Russifier)
 
 ### Наши ресурсы
-* В основном мы обитаем на нашем [Discord](https://discord.gg/ZJ3SQpV) сервере.
+* **Со́лицен** обитает на своем сервере [Sо́licen Community](https://discord.gg/3wjcQzy7zz).
+* В основном мы (и Солицен тоже) обитаем на нашем [Discord](https://discord.gg/ZJ3SQpV) сервере.
 * Все переводы вы можете найти на нашем [Discord](https://discord.gg/ZJ3SQpV) сервере в канале `#переводы-и-порты`.
 
 ### Пожертвования:
